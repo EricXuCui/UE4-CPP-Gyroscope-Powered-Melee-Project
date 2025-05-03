@@ -10,6 +10,6 @@ We developed a project by using C++ on the Unreal Engine 4 (UE4) platform with g
 Project demo and page Report by advanced to the BC Youth Innovation Showcase semi-finals
 https://www.sciencefairs.ca/website/files/e2/e2219076-d4a1-4622-b8a4-66ba1048fe3c.pdf
 
-https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/
+[https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/](https://www.youtube.com/watch?v=U2efF2xVEB4)
 
 https://ericxucui.github.io/ My personal site
