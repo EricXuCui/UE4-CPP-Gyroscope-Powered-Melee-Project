@@ -9,6 +9,6 @@ You may download my github file to watch the demo video.
 
 Project demo and page Report by advanced to the BC Youth Innovation Showcase semi-finals
 
-[https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/](https://www.youtube.com/watch?v=U2efF2xVEB4)
+https://www.youtube.com/watch?v=U2efF2xVEB4
 
 https://ericxucui.com/ My personal site
